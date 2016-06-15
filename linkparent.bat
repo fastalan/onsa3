@@ -1,0 +1,1 @@
+mklink /D p:\ONS_Weapons p:\onsa3\ONS_Weapons
